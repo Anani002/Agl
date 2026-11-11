@@ -51,5 +51,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
             </form>
         </div>
     </div>
+    <h1>Armandine</h1>
 </body>
 </html>
